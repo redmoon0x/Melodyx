@@ -1,6 +1,6 @@
 <img src="https://wallpaperaccess.com/full/5458009.jpg" align="right" width="200" height="200"/>
 
-# Melody <img src="https://wallpaperaccess.com/full/2099444.png" alt="RELEASE">
+# Melody <img src="https://wallpaperaccess.com/full/209944m4.png" alt="RELEASE">
 
 [Melody](https://github.com/redmoon0x/Melodyx) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
